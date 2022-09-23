@@ -27,13 +27,10 @@ Lastly, I highly recommend learning VSCode shortcuts, as they can dramatically s
 
 For learning Flutter, there are a couple of recommended free tutorial sites:
 
-- TEsting
+- [Flutter Developers Tutorial](https://docs.flutter.dev/reference/tutorials)
+- [Geeks For Geeks Tutorial](https://www.geeksforgeeks.org/flutter-tutorial/)
+- [Flutter Campus Tutorial](https://www.fluttercampus.com/tutorials/)
 
-For learning Java, we currently recommend using [codecademy](https://www.codecademy.com/learn/learn-java), but most sources are likely to work.
-
-If you choose codecademy, skip any of the parts that require payment, you needn't pay money to learn to program online.
-
-Also, **you can skip "String Methods", "Two-Dimensional Arrays", and "Debugging", as they aren't strictly required for programming a robot.** That being said, these are still useful to know, especially the section about debugging, so feel free to go back after the training to learn more.
 
 ## Part 3 - Programming a Robot
 
