@@ -24,7 +24,7 @@ The following is a list of development tools you will need in order to develop i
 
     _Note:  You want to download the latest version of VS Code.  If you have already downloaded the 
     custom VS Code for robot coding, it's recommended that you download the latest standard version
-    and install next to the custom version.
+    and install next to the custom version._
 
 - [Flutter SDK](https://docs.flutter.dev/get-started/install)
     - Follow instructions for your OS platform.
