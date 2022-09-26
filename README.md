@@ -1,27 +1,34 @@
 # flutter-training
 
-## Part 1 - Installing Software
+## Part 1 - Required Software
 
-_(Skip this part if you are working with one of the team laptops)_
+Team 2539 decided a few years ago to develop our scouting app in Flutter, an open source framework by Google for building natively compiled and multi-platform applications from a single codebase.
 
-To program FRC robots in Java, a custom build of Visual Studio Code is required.
+The following is a list of development tools you will need in order to develop in Flutter ...
 
-Follow the instructions on the [wpilib website](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html) in order to install this software.
+- [Android Studio](https://developer.android.com/studio)
+    - Download and install
+    - Start Android Studio and go through the setup wizard.
+    - From the SDK Manager, make sure you install the command-line tools and the Google USB Driver (Windows Only)
 
-Once WPILIB VSCode is installed, you are ready to go, unless you want to configure VSCode further.
+- [Visual Studio Code](https://code.visualstudio.com/download)
+    - Download and install 
+    - Add the extensions for Flutter and Dart
+    - Some common confugration options
+        -   Custom themes
+        -   Coloring bracket pairs (), [], {}
+            -   Search in VSCode settings for this option and enable it
+        -   Setting a default terminal
+            -   Again, search in settings to change it
+            -   Press Ctrl/Cmd + J to toggle it
 
-#### Configuring VSCode
+    _Note:  You want to download the latest version of VS Code.  If you have already downloaded the 
+    custom VS Code for robot coding, it's recommended that you download the latest standard version
+    and install next to the custom version.
 
-Some common configuration options include:
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+    - Follow instructions for your OS platform.
 
--   Custom themes (I personally recommend Atom One Dark)
--   Coloring bracket pairs (), [], {}
-    -   Search in VSCode settings for this option and enable it
--   Setting a default terminal
-    -   Again, search in settings to change it
-    -   Press Ctrl/Cmd + J to toggle it
-
-Lastly, I highly recommend learning VSCode shortcuts, as they can dramatically speed up your workflow (just look it up on google, there are a million articles).
 
 ## Part 2 - Learning Flutter
 
@@ -31,11 +38,3 @@ For learning Flutter, there are a couple of recommended free tutorial sites:
 - [Geeks For Geeks Tutorial](https://www.geeksforgeeks.org/flutter-tutorial/)
 - [Flutter Campus Tutorial](https://www.fluttercampus.com/tutorials/)
 
-
-## Part 3 - Programming a Robot
-
-The next step is to get hands on!
-
-Visit the [projects folder](projects) of this github repository for further instructions!
-
-_Note: solutions are in the [solutions](solutions) directory_
