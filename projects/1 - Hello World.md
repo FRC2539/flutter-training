@@ -46,6 +46,8 @@ class HelloWorldApp extends StatelessWidget {
 
 2. Run the application.  You should see a screen with a blue app bar along with the text __Hello World!__ centered in the bottom frame.
 
+      ![Project 1 - Initial](images/p1-t1.png)
+
 #### Observations
 
 - The application creates a Material app.  [Material](https://material.io/design) is a visual design language this is standard on mobile devices.  Flutter offers a rich set of Material widgets.
@@ -70,6 +72,8 @@ The following tasks will ask you to modify the appearence of the __Hello World!_
 3. Modify the text to have a font size of 50.
 4. Modify the text to have an purple wavy underline.
 
+      ![Project 1 - Challenge](images/p1-t2.png)
+
 #### Advanced
 
 You will find these items a bit more challenging.  These challenges will continue to build upon your project and will again be modifying the appearance of the __Hello World!__ text.
@@ -80,13 +84,19 @@ You will find these items a bit more challenging.  These challenges will continu
     - Modify the text to be yellow with 100% opacity.
     - Modify the text to have a blue outline with a width of 6.
 
+      ![Project 1 - Borders](images/p1-t3a.png)
+
 2. Gradient
     - Modify the text to remove the borders.
     - Modify the text to have the color move from green to blue.
 
+      ![Project 1 - Gradient](images/p1-t3b.png)
+
 3. Font Family
     - Download the "Eater" font from Google
     - Modify the text to utilize the Font Family __Eater__.
+
+      ![Project 1 - Fonts](images/p1-t3c.png)
 
 
 
