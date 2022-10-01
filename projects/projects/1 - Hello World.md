@@ -88,7 +88,5 @@ You will find these items a bit more challenging.  These challenges will continu
     - Download the "Eater" font from Google
     - Modify the text to utilize the Font Family __Eater__.
 
-### Solutions
 
-[Project Solutions](https://github.com/rfc2539/flutter-training/projects/Project_1)
 
