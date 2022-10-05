@@ -58,7 +58,7 @@ class HelloWorldApp extends StatelessWidget {
 
 ### Challenge
 
-Use the class documentation to assist you in completing the tasks below.
+Use the documentation links to assist you in completing the tasks below.
 
 - [Text class](https://api.flutter.dev/flutter/widgets/Text-class.html)
 - [TextStyle class](https://api.flutter.dev/flutter/painting/TextStyle-class.html)
