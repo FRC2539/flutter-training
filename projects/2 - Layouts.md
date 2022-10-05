@@ -1,4 +1,4 @@
-## Project #1 - Layouts App
+## Project #2 - Layouts App
 
 ### Project Creation
 
