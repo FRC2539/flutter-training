@@ -39,7 +39,7 @@ class Home extends StatelessWidget {
 
 3. Run the application.  You should see a deep orange screen with the text __Team2539__ (red with a yellow underline) centered in the screen container.
 
-    <img src="images/p2-t1.png" width="50%", height="50%" />
+    <img src="images/p2-t1.png" width=25% height=25% />
 
 
 #### Observations
