@@ -26,8 +26,6 @@ class Home extends StatelessWidget {
     return Container(
       alignment: Alignment.center,
       color: Colors.deepOrangeAccent,
-      width: 192.0,
-      height: 96.0,
       child: const Text(
         "Team2539",
         style: TextStyle(fontSize: 35),
