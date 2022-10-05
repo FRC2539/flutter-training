@@ -51,22 +51,51 @@ class Home extends StatelessWidget {
 
 Use the class documentation to assist you in completing the tasks below.
 
-- [Text class](https://api.flutter.dev/flutter/widgets/Text-class.html)
-- [TextStyle class](https://api.flutter.dev/flutter/painting/TextStyle-class.html)
-- [4 East Steps to Change Font Family](https://www.flutterbeads.com/change-font-family-flutter/)
-- [Google Fonts](https://fonts.google.com/)
+- [Container Widget](https://api.flutter.dev/flutter/widgets/Container-class.html)
+- [Center Widget](https://api.flutter.dev/flutter/widgets/Center-class.html)
 
 The following tasks will ask you to modify the appearence of the container and the __Team2539__ text.  
 
 1. Modify the size of the container to have a width of 192.0 and height of 96.0 while keeping the text centered in the screen.
 
-        ![Project 2 - Challenge 1](images/p2-t1.png)
+    <img src="images/p2-t2-1.png" width=25% height=25% />
 
-2. Modify the text to be red with 50% opacity.
+2. Modify the size of the container to have margins of 50.0 on all sides of the container.
 
-3. Modify the text to have a font size of 50.
+    <img src="images/p2-t2-2.png" width=25% height=25% />
 
-4. Modify the text to have an purple wavy underline.
+3. Modify the size of the container to have margins of 50.0 on left and right sides of the container.
 
-        ![Project 2 - Challenge 4](images/p2-t4.png)
+    <img src="images/p2-t2-3.png" width=25% height=25% />
 
+
+#### Advanced
+
+You will find these items a bit more challenging.  Use the class documentation to assist you in completing these tasks.
+
+- [Rows Widget](https://api.flutter.dev/flutter/widgets/Row-class.html)
+- [Columns Widget](https://api.flutter.dev/flutter/widgets/Column-class.html)
+- [Expanded Widget](https://api.flutter.dev/flutter/widgets/Expanded-class.html)
+
+1. Starting with the original program for project 2 ...
+    - Create two __Text__ widgets next to each other.
+    - Set the text for the left widget to be _Margherita_ that is colored black and has size 25.
+    - Set the text for the right widget to be _Tomato, Mozzarella, Basil_ that is colored black and has size 20.
+
+
+    <img src="images/p2-t3-1.png" width=25% height=25% />
+
+2. Adding onto previous project ...
+    - Create two __Text__ widgets that are below the existing Text widgets.
+    - Set the text for the left widget to be _Marinara_ that is colored black and has size 25.
+    - Set the text for the right widget to be _Tomato, Garlic_ that is colored block and has size 20.
+    - __Note:__ _You will notice that your text is no longer centered on the screen._
+
+
+    <img src="images/p2-t3-2.png" width=25% height=25% />
+
+3. Adding onto previous project ...
+    - Move the text widgets down the screen by 50.0 and to the left by 15.0.
+
+
+    <img src="images/p2-t3-3.png" width=25% height=25% />

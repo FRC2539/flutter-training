@@ -60,8 +60,8 @@ class HelloWorldApp extends StatelessWidget {
 
 Use the documentation links to assist you in completing the tasks below.
 
-- [Text class](https://api.flutter.dev/flutter/widgets/Text-class.html)
-- [TextStyle class](https://api.flutter.dev/flutter/painting/TextStyle-class.html)
+- [Text Widget](https://api.flutter.dev/flutter/widgets/Text-class.html)
+- [TextStyle Widget](https://api.flutter.dev/flutter/painting/TextStyle-class.html)
 - [4 East Steps to Change Font Family](https://www.flutterbeads.com/change-font-family-flutter/)
 - [Google Fonts](https://fonts.google.com/)
 
