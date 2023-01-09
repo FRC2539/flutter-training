@@ -2,11 +2,11 @@
 
 ### Project Creation
 
-Follow the steps below to create your first Flutter project.
+Follow the steps below to create your Flutter project.
 
 1. Create a new Flutter project called __Layouts__.
 
-1. To create your Hello World application, you want to modify the file lib/main.dart.  Replace the contents of the main.dart file with the code below.
+2. To create your Layouts application, you want to modify the file lib/main.dart.  Replace the contents of the main.dart file with the code below.
 
 ```
 import "package:flutter/material.dart";
